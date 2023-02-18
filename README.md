@@ -1,20 +1,22 @@
-# [💎 OSS Bounties](https://console.algora.io)
+# [OSS Bounties](https://console.algora.io)
 
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)](https://www.youtube.com/@algora-io)
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/algoraio)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BpgaMdJN)
 
-## Available Bounties: 16
-## Rewarded Bounties: 13
-## Bounty Payouts: $3,150
-## Bounty Solvers: 7
-## Active OSS projects: 3
+## 💎 Available Bounties: 16
+## 🙌 Rewarded Bounties: 13
+## 💸 Bounty Payouts: $3,150
+## 🤠 Bounty Solvers: 7
+## 🤩 Active OSS projects: 3
 
 
 <p align="center">
   <a href="https://github.com/calcom/cal.com">
    <img src="https://user-images.githubusercontent.com/8019099/210054112-5955e812-a76e-4160-9ddd-58f2c72f1cce.png" alt="Logo">
   </a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=calcom&repo=cal.com&show_owner=true&theme=transparent)](https://github.com/remotion-dev/remotion)
   
   [![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fcal%2Fbounties%3Fstatus%3Dopen)](https://console.algora.io/org/cal/bounties?status=open)
   
@@ -32,6 +34,8 @@
 ---------------
 
   <a href="https://capgo.app/"><img src='https://raw.githubusercontent.com/Cap-go/capgo/main/assets/capgo_banner.png' alt='Capgo - Instant updates for capacitor'/></a>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Cap-go&repo=capacitor-updater&show_owner=true&theme=transparent)](https://github.com/remotion-dev/remotion)
 
 [![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fcapgo%2Fbounties%3Fstatus%3Dopen)](https://console.algora.io/org/capgo/bounties?status=open)
 
@@ -56,6 +60,8 @@
     </picture>
   </a>
 </p>
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=remotion-dev&repo=remotion&show_owner=true&theme=transparent)](https://github.com/remotion-dev/remotion)
 
 [![Open Bounties](https://img.shields.io/endpoint?url=https%3A%2F%2Fconsole.algora.io%2Fapi%2Fshields%2Fremotion%2Fbounties%3Fstatus%3Dopen)](https://console.algora.io/org/remotion/bounties?status=open)
 
