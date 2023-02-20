@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/algoraio)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BpgaMdJN)
 
-## 💎 Available Bounties: 18
+## 💎 Available Bounties: 19
 ## 🙌 Rewarded Bounties: 13
 ## 💸 Bounty Payouts: $3,150
 ## 🤠 Bounty Solvers: 7
@@ -69,6 +69,13 @@
 
 ## 💻 Tech stack:  React, Typescript
 
+<a href="https://console.algora.io/org/remotion/bounties?status=open">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/bounties.png?p=0&status=open&theme=dark">
+    <img alt="Bounties of remotion" src="https://console.algora.io/api/og/remotion/bounties.png?p=0&status=open&theme=light">
+  </picture>
+</a>
+
 <a href="https://console.algora.io/org/remotion/leaderboard">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://console.algora.io/api/og/remotion/leaderboard.png?p=0&theme=dark">
@@ -80,11 +87,11 @@
 
 ----
 
-## Create & reward a bounty in 60 seconds
+# Create & reward a bounty in 60 seconds
 
 [![Watch the video](https://img.youtube.com/vi/iF62ZpobBUc/maxresdefault.jpg)](https://youtu.be/iF62ZpobBUc)
 
-### Tip OSS contributors in 60 seconds
+# Tip OSS contributors in 60 seconds
 
 [![Watch the video](https://img.youtube.com/vi/POtP2CBQCiE/maxresdefault.jpg)](https://youtu.be/POtP2CBQCiE)
 
