@@ -4,7 +4,7 @@
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?style=for-the-badge&logo=Twitter&logoColor=white)](https://twitter.com/algoraio)
 [![Discord](https://img.shields.io/badge/Discord-%235865F2.svg?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/BpgaMdJN)
 
-## 💎 Available Bounties: 19
+## 💎 Available Bounties: 20
 ## 🙌 Rewarded Bounties: 13
 ## 💸 Bounty Payouts: $3,150
 ## 🤠 Bounty Solvers: 7
